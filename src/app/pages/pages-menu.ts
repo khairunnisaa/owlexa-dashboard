@@ -30,20 +30,12 @@ export const MENU_ITEMS: NbMenuItem[] = [
     icon: 'edit-2-outline',
     children: [
       {
-        title: 'Form Inputs',
+        title: 'Input Data Provider',
         link: '/pages/forms/inputs',
       },
       {
-        title: 'Form Layouts',
-        link: '/pages/forms/layouts',
-      },
-      {
-        title: 'Buttons',
-        link: '/pages/forms/buttons',
-      },
-      {
-        title: 'Datepicker',
-        link: '/pages/forms/datepicker',
+        title: 'Tabel Provider',
+        link: '/pages/tables/smart-table',
       },
     ],
   },
